@@ -28,7 +28,7 @@ SECRET_KEY = '9p=-#mdk3i&b1hee-kh@qd_l*6ayt+ca%*4-@(&_hd8k!7(w5i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['sushants10.pythonanywhere.com']
+ALLOWED_HOSTS = ['https://sushants10.pythonanywhere.com']
 
 
 # Application definition
